@@ -1,5 +1,2 @@
-Los archivos en R estan divididos en 3:
-Nacional, con el la figura 6
-Provincial, sobre las figuras 5 y 7
-LatAm, sobre las figuras 1,2,3 y 4
-dsasdasdas
+El dataset sobre las provincias argentinas debe ser descargado mediante el siguiente link: https://www.kaggle.com/datasets/simonlozada/coronavirus-in-argentina 
+Esto es asi ya que el archivo es muy pesado para ser subido a github

@@ -1,0 +1,9 @@
+Data WHO sobre todos los paises: https://covid19.who.int/data  
+
+Data OWID sobre vacunacion y mas: https://ourworldindata.org/covid-vaccinations 
+
+shapefile: https://www.diva-gis.org/datadown 
+
+Data sobre provincias para el mapa de calor: https://www.kaggle.com/datasets/simonlozada/coronavirus-in-argentina 
+
+Desempleo en LatAm, por hombre y mujer (usado para grafico de barras): https://www.ilo.org/shinyapps/bulkexplorer32/?lang=en&id=SDG_0852_SEX_AGE_RT_A
